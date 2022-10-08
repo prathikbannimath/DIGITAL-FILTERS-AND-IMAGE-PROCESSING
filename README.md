@@ -1,1 +1,1 @@
-# DIGITAL-FILTERS-AND-IMAGE-PROCESSING
+# Digital Filters and Image Processing
